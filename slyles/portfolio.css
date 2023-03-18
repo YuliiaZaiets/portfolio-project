@@ -3,3 +3,10 @@ h1 {
     font-weight: bold;
     font-family: serif;
 }
+.hero {
+    background-color: #f9f7fe;
+    text-align: center;
+}
+.hero p {
+    background-color: red;
+}
